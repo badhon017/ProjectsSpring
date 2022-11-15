@@ -1,8 +1,0 @@
-{
-  "properties": [
-    {
-      "name": "spring.error.whitelabel.enabled",
-      "type": "java.lang.String",
-      "description": "Description for spring.error.whitelabel.enabled."
-  }
-] }
